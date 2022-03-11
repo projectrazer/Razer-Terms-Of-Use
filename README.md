@@ -88,4 +88,4 @@
 <p>BY USING SERVICE OR OTHER SERVICES PROVIDED BY US, YOU ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS OF SERVICE AND AGREE TO BE BOUND BY THEM.</p>
 <p>23. <b>Contact Us</b></p>
 <p>Please send your feedback, comments, requests for technical support by email: <b>officialrazer@protonmail.com</b>.</p>
-<p style="margin-top: 5em; font-size: 0.7em;">These <a href="https://officialrazer.xyz/">©2022 Razer, Inc. All rights reserved.</p>
+<p style="margin-top: 5em; font-size: 0.7em;"><a href="https://officialrazer.xyz/">©2022 Razer, Inc. All rights reserved.</p>
